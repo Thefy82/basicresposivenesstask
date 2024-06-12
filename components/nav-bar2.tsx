@@ -18,7 +18,7 @@ const NavBar2: NextPage<NavBar2Type> = ({ className = "" }) => {
       <img
         className="absolute top-[10px] left-[97px] w-[293.3px] h-[60px] object-cover"
         alt=""
-        src="/hobbycue-logo-v2-1@2x.png"
+        src="/hobbycue-logo-v2-11@2x.png"
       />
       <div className="absolute top-[20px] left-[425px] w-[300px] h-10">
         <div className="absolute top-[0px] left-[0px] rounded-lg bg-grey-hover box-border w-[300px] h-10 mix-blend-normal border-[1px] border-solid border-grey-lighter" />

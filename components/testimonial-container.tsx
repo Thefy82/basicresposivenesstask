@@ -21,7 +21,7 @@ const TestimonialContainer: NextPage<TestimonialContainerType> = ({
             <img
               className="absolute top-[0px] left-[0px] w-10 h-10 overflow-hidden object-contain"
               alt=""
-              src="/quote@2x.png"
+              src="/quote1@2x.png"
             />
           </div>
         </div>
@@ -41,7 +41,7 @@ const TestimonialContainer: NextPage<TestimonialContainerType> = ({
           <img
             className="absolute top-[0px] left-[0px] rounded-[50%] w-[100px] h-[100px] object-cover"
             alt=""
-            src="/ellipse-12@2x.png"
+            src="/ellipse-121@2x.png"
           />
           <div className="absolute top-[24px] left-[124px] w-[180px] h-[52px]">
             <div className="absolute top-[0px] left-[0px] tracking-[0.02em] font-semibold">

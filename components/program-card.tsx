@@ -1,5 +1,5 @@
 import type { NextPage } from "next";
-import FrameComponent from "./frame-component";
+import FrameComponent from "./frame-component2";
 
 export type ProgramCardType = {
   className?: string;
